@@ -1,0 +1,6 @@
+@Hangfire_EmailNotification_HostAddress = http://localhost:5110
+
+GET {{Hangfire_EmailNotification_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

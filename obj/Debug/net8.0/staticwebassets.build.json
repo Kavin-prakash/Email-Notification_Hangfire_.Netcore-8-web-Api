@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4lyG9G4Fsh8rkY8Q/4MlUawpGzsuG7gAeT1g5dcIxUY=",
+  "Source": "Hangfire_EmailNotification",
+  "BasePath": "_content/Hangfire_EmailNotification",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
